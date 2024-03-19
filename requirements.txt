@@ -2,4 +2,4 @@ country_converter==1.2
 Pillow==10.2.0
 pystray==0.19.5
 requests==2.31.0
-setuptools==69.1.1
+setuptools==69.2.0

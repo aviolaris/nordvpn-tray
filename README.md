@@ -1,3 +1,7 @@
+### 🛑 This project is archived 🛑
+
+As of March 1, 2024, the NordVPN API endpoints utilized in this project have been discontinued, rendering this project non-functional. This decision was made by NordVPN as part of its ongoing efforts to enhance infrastructure and improve security measures. [Show more...](https://support.nordvpn.com/hc/en-us/articles/21586950310801-Discontinuation-of-the-legacy-API-endpoints-on-NordVPN)
+
 # NordVPN Tray
 
 ### A cross-platform system tray application for interacting with Nord VPN.
@@ -76,4 +80,4 @@ Pull requests and issues are welcome.
 
 This project is licensed under the GNU General Public License v3.0.
 
-See the [LICENSE](https://github.com/aviolaris/nordvpn-tray/blob/master/LICENSE) file for details.
+See the [LICENSE](https://github.com/aviolaris/nordvpn-tray/blob/main/LICENSE) file for details.
