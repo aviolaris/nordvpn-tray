@@ -27,7 +27,7 @@ with open('requirements.txt', encoding='utf-8') as f:
 
 setup(
     name='nordvpn-tray',
-    version='1.0.11',
+    version='1.0.12',
     packages=find_namespace_packages(where="src"),
     package_dir={"": "src"},
     package_data={
@@ -49,7 +49,7 @@ setup(
         ],
     },
     classifiers=[
-        'Development Status :: 4 - Beta',
+        'Development Status :: 7 - Inactive',
         'Intended Audience :: End Users/Desktop',
         'Operating System :: Microsoft :: Windows',
         'Operating System :: POSIX :: Linux',
